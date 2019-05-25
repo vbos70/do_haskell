@@ -9,3 +9,5 @@ Do Haskell with fpcomplete's Applied Haskell pages (https://haskell.fpcomplete.c
    
    $ stack config set resolver lts-12.21 
    
+2. Hoogle link: https://www.stackage.org/lts-12.21
+
